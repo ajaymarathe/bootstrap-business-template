@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Bree Serif', serif !important;
+}
+
+.hero-header{
+    height: 80vh;
+    background-repeat: no-repeat;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-position: center;
+}
+.hero-header .header{
+    background: white;
+    text-align:center;
+    padding: 1rem;
+    opacity: .9;
+}
+
+
+/**for small screens*/
+@media only screen and (max-width: 600px) {
+  .hero-header {
+    height: 60vh;
+  }
+}
