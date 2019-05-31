@@ -6,11 +6,12 @@ h1,h2,h3,h4,h5,h6{
 
 .hero-header{
     height: 80vh;
+    width:100%;
+    background-size:cover;
     background-repeat: no-repeat;
     display:flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
     background-position: center;
 }
 .hero-header .header{
