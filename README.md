@@ -2,7 +2,7 @@
 Bootstrap-business-template is fully responsive mobile first template based on bootstrap 4.3, thanks :)
 
 ### first-shot
-[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-business-template/img/business-tempates.png)](http://preview.bootcatch.com/bootstrap-business-template/)
+[![bootstrap simple blog](https://github.com/ajaymarathe/bootstrap-business-template/blob/master/img/business-tempates.png)](http://preview.bootcatch.com/bootstrap-business-template/)
 
 
 ## About
