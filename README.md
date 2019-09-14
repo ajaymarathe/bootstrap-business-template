@@ -2,14 +2,14 @@
 Bootstrap-business-template is fully responsive mobile first template based on bootstrap 4.3, thanks :)
 
 ### first-shot
-[![bootstrap simple blog](https://github.com/ajaymarathe/bootstrap-business-template/blob/master/img/business-tempates.png)](http://preview.bootcatch.com/bootstrap-business-template/)
+[![bootstrap simple blog](https://github.com/ajaymarathe/bootstrap-business-template/blob/master/img/business-tempates.png)](https://ajaymarathe.github.io/bootstrap-business-template/)
 
 
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/bootstrap-business-template/
+* https://ajaymarathe.github.io/bootstrap-business-template/
 * http://bootcatch.com
 
 ## Usage
